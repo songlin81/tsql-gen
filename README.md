@@ -1,44 +1,9 @@
-## 101 for ( Node + Express + AngularJS )
-MEAN Stack简单演示
+## 101 for ( MS TSQL )
+TSQL Quick Reference
 
-##ng-server包含
+##TSQL syntax
 
-* ng-app
-* ng-controller
-* angular
-	* module
-		* value
-		* constant
-	* run
-	* controller
-	* config
-* $scope `$rootScope`
-* ngCookies
-	* $cookies
-	* $cookieStore
-* ngMessages
-* ngRoute
-* $watch
-* $http
-	* promise
-	* success
-	* error
-* $routeProvider
-* ng-click
-* ng-repeat
-* ng-model
-* ng-bind
-* ng-show
-* ng-hide
-* ng-if
-* ng-include
-* ng-switch
-* directive
-	* link
-* service
-* factory
-* provider `$get`
-* filter
+* `group by` to eliminate duplicates but show other columns
 
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
@@ -48,8 +13,7 @@ MEAN Stack简单演示
 
 ##References
 
-* [node](http://nodejs.org/) 
-* [angular](http://angularjs.org)
+* [MSDN](http://msdn.microsoft.com/) 
 
 ##关于作者
 
